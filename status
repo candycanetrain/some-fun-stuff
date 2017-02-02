@@ -1,0 +1,90 @@
+[33mcommit 8fca73a51dce57a3e5979fc61475d42f5c4f653d[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Wed Feb 1 06:40:02 2017 -0800
+
+    Chess project and Rspec
+
+[33mcommit 865cfe31b5787d318d280549ecd95f973919bf89[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Tue Jan 31 09:51:17 2017 -0800
+
+    Delete more extra files
+
+[33mcommit ffb49d9d7e49e138df74350dbfa68c3c8a452083[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Tue Jan 31 09:48:32 2017 -0800
+
+    Delete extra files
+
+[33mcommit 47d3dd05fb05f966e65ef82a230002a734120313[m
+Merge: ff69918 f9c2562
+Author: Candra Tran <candratran@gmail.com>
+Date:   Tue Jan 31 09:40:18 2017 -0800
+
+    Merge branch 'master' of https://www.github.com/candycanetrain/some-fun-stuff
+    
+    "Organize repository"
+
+[33mcommit ff69918e369017f075d771ae5d7a394ec02cb2c2[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Tue Jan 31 09:31:57 2017 -0800
+
+    Organize files
+
+[33mcommit f9c25628283ed77d23540b766d92cc3fa0d79d4a[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Tue Jan 31 09:01:46 2017 -0800
+
+    Add files via upload
+    
+    finished mancala game
+
+[33mcommit fc32a23317f04cdd266b59d6bf8aebb04f52649e[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Tue Jan 31 08:49:06 2017 -0800
+
+    Complete Mancala game
+
+[33mcommit c65c32d135bbbd9b32d9f70c0aed5b84e4fc746d[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Mon Jan 30 23:29:42 2017 -0800
+
+    commit
+
+[33mcommit fd3d7aa06bc2e263371b8480150782d9355cf223[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Mon Jan 30 00:33:17 2017 -0800
+
+    Add files via upload
+    
+    create simon game
+
+[33mcommit 6201d5df6c24291c5a3e8abcbbbde155e71f9349[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Thu Jan 26 22:38:08 2017 -0800
+
+    Create Map class for 2D arrays
+
+[33mcommit dbf8c9533e1cb7085f734e9e926a0ecd14797185[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Thu Jan 26 22:07:14 2017 -0800
+
+    Create Map class
+
+[33mcommit e948fe6173e8439dccb0328072c1b39c75592ed3[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Thu Jan 26 22:03:19 2017 -0800
+
+    Create Queue class
+
+[33mcommit a1d535b2b470023c6dd8848360bfec719ec3e5ef[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Thu Jan 26 21:55:42 2017 -0800
+
+    Create Stack class and some methods
+
+[33mcommit 44063b768d416c437152bed40ec98e6ca930f51a[m
+Author: Candra Tran <candratran@gmail.com>
+Date:   Thu Jan 26 20:10:29 2017 -0800
+
+    Initial commit
